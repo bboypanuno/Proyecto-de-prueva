@@ -3,6 +3,6 @@ public class NuevoProyecto{
    System.out.println("holamundo");
    
    int array[]= new int[20];
-   System.out.println(array[20]);
+   System.out.println(array[2]);
  }
 }
